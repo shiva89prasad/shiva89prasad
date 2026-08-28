@@ -5,7 +5,7 @@
 <picture>
   <!-- <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
   <img alt="Logo for Shiva Prasad N" src="art/header-light.png"> -->
-   <img width="1660" height="380" alt="header-dark" src="https://github.com/user-attachments/assets/508b7c8e-4519-43ce-8e71-752fa8420da9" />
+   <img alt="header-dark" src="https://github.com/user-attachments/assets/508b7c8e-4519-43ce-8e71-752fa8420da9" />
 </picture>
 </div>
 
