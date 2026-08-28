@@ -18,11 +18,11 @@
 </p>
 
 <!-- Badges Section -->
-<div style="display:flex; justify-content:center; gap:15px; margin-top:20px; flex-wrap:wrap;">
+<!-- <div style="display:flex; justify-content:center; gap:15px; margin-top:20px; flex-wrap:wrap;">
   <img src="https://img.shields.io/github/followers/shiva89prasad?style=for-the-badge&color=blue" alt="Followers" />
   <img src="https://img.shields.io/github/stars/shiva89prasad?style=for-the-badge&color=blue" alt="Stars" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shiva89prasad.shiva89prasad&style=for-the-badge&color=blue" alt="Views" />
-</div>
+</div> -->
 
 <!-- About Me Section -->
 <h2 style="text-align:center; margin-top:40px; font-family:Arial, sans-serif;">About Me</h2>
@@ -30,7 +30,7 @@
   <tr>
     <td style="width:65%; padding:10px; font-family:Arial, sans-serif; vertical-align:top;">
       <p>Hello! I'm Shiva Prasad N, a passionate backend developer with over 4 years of experience. I love designing scalable server-side applications, optimizing performance, and contributing to open source projects. Always eager to learn new technologies and improve my skills.</p>
-      <p>Let's build something amazing together!</p>
+    <!--  <p>Let's build something amazing together!</p> -->
     </td>
 <!--    <td style="width:35%; padding:10px; text-align:center;">
       <img src="https://via.placeholder.com/200" alt="Profile Image" style="border-radius:50%; width:200px; height:200px; object-fit:cover;">
@@ -43,19 +43,19 @@
 <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; margin-top:20px;">
   <!-- Replace the src with actual icon URLs or SVGs -->
   <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Python" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20" />
     <p style="margin-top:8px;">Java</p>
   </div>
   <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Springboot/Springboot-original.svg" alt="Node.js" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Springboot/Springboot-original.svg" alt="Node.js" width="20" height="20" />
     <p style="margin-top:8px;">Springboot</p>
   </div>
   <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" />
     <p style="margin-top:8px;">Microservices</p>
   </div>
   <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20" />
     <p style="margin-top:8px;">PostgreSQL</p>
   </div>
   <!-- Add more icons as needed -->
