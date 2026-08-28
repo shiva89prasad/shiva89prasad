@@ -40,25 +40,28 @@
 
 <!-- Tech Stack with Icons -->
 <h2 style="text-align:center; margin-top:40px; font-family:Arial, sans-serif;">My Tech Stack</h2>
-<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; margin-top:20px;">
-  <!-- Replace the src with actual icon URLs or SVGs -->
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20" />
-    <p style="margin-top:8px;">Java</p>
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px; margin-top:20px;">
+  <!-- Java -->
+  <div style="display:flex; flex-direction:column; align-items:center; width:60px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+    <p style="margin-top:8px; font-size:0.9em;">Java</p>
   </div>
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Springboot/Springboot-original.svg" alt="Node.js" width="20" height="20" />
-    <p style="margin-top:8px;">Springboot</p>
+  <!-- Springboot -->
+  <div style="display:flex; flex-direction:column; align-items:center; width:60px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Springboot/Springboot-original.svg" alt="Spring Boot" width="40" height="40" />
+    <p style="margin-top:8px; font-size:0.9em;">Springboot</p>
   </div>
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" />
-    <p style="margin-top:8px;">Microservices</p>
+  <!-- Docker -->
+  <div style="display:flex; flex-direction:column; align-items:center; width:60px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+    <p style="margin-top:8px; font-size:0.9em;">Microservices</p>
   </div>
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20" />
-    <p style="margin-top:8px;">PostgreSQL</p>
+  <!-- PostgreSQL -->
+  <div style="display:flex; flex-direction:column; align-items:center; width:60px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+    <p style="margin-top:8px; font-size:0.9em;">PostgreSQL</p>
   </div>
-  <!-- Add more icons as needed -->
+  <!-- Add more icons following the same pattern -->
 </div>
 
 <!-- GitHub Stats & Activity Graph -->
