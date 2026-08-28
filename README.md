@@ -2,10 +2,10 @@
 
 <!-- Responsive Banner -->
 <div style="width:100%; height:250px; background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%); display:flex; align-items:center; justify-content:center; position:relative;">
-  <picture style="width:100%; height:100%; position:absolute; top:0; left:0; overflow:hidden;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://via.placeholder.com/1920x250/333/fff?text=Dark+Banner+Placeholder" />
-    <img src="https://via.placeholder.com/1920x250/89f7fe/333?text=Light+Banner+Placeholder" alt="Banner" style="width:100%; height:100%; object-fit:cover;">
-  </picture>
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Shiva Prasad N" src="art/header-light.png">
+</picture>
 </div>
 
 <!-- Centered Large Title -->
