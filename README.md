@@ -3,8 +3,8 @@
 <!-- Responsive Banner -->
 <div style="width:100%; height:250px; background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%); display:flex; align-items:center; justify-content:center; position:relative;">
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-  <!-- <img alt="Logo for Shiva Prasad N" src="art/header-light.png"> -->
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+  <img alt="Logo for Shiva Prasad N" src="art/header-light.png"> -->
    <img width="1660" height="380" alt="header-dark" src="https://github.com/user-attachments/assets/508b7c8e-4519-43ce-8e71-752fa8420da9" />
 </picture>
 </div>
