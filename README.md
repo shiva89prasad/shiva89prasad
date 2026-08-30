@@ -1,123 +1,301 @@
 <!-- README.md for Shiva Prasad N's GitHub Profile -->
 
-<!-- Responsive Banner -->
-<div style="width:100%; height:250px; background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%); display:flex; align-items:center; justify-content:center; position:relative;">
-<picture>
-  <!-- <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-  <img alt="Logo for Shiva Prasad N" src="art/header-light.png"> -->
-   <img alt="header-dark" src="https://github.com/user-attachments/assets/508b7c8e-4519-43ce-8e71-752fa8420da9" />
-</picture>
+<div align="center">
+
+# 👋 Hey there, I'm Shiva Prasad N
+
+### ☕ Java Backend Developer | Spring Boot | Microservices | PostgreSQL
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;REST+API+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shiva89prasad\&label=Profile%20Views\&color=007bff\&style=for-the-badge)
+
 </div>
 
-<!-- Centered Large Title -->
-<h1 style="text-align:center; margin-top:20px; font-size:3em; font-family:Arial, sans-serif;">Hey there, I'm Shiva Prasad N</h1>
+---
 
-<!-- Animated Typing Text -->
-<p style="text-align:center; font-size:1.5em; font-family:Arial, sans-serif; margin-top:10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=600&height=40&lines=Backend+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+## 👨‍💻 About Me
+
+Hi! I'm **Shiva Prasad N**, a **Java Backend Developer with 4+ years of professional experience**.
+
+I specialize in building **scalable, maintainable, and high-performance backend applications** using Java and the Spring ecosystem.
+
+### 🚀 What I work with
+
+* ☕ **Java**
+* 🌱 **Spring Boot**
+* 🔗 **REST APIs**
+* 🧩 **Microservices**
+* 🗄️ **PostgreSQL**
+* 🐳 **Docker**
+* 🛠️ **Spring Data JPA / Hibernate**
+* 📡 **Kafka**
+* 🔐 **Spring Security & JWT**
+* 🧪 **JUnit & Mockito**
+* 📦 **Maven**
+* 📊 **Git & GitHub**
+
+I enjoy solving backend problems, improving application performance, learning new technologies, and building production-ready applications.
+
+---
+
+## 🛠️ Tech Stack
+
+### ☕ Backend Development
+
+<p align="center">
+
+<a href="https://www.java.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://spring.io/projects/spring-boot">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://spring.io/projects/spring-security">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Security"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://hibernate.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="50" height="50" alt="Hibernate"/>
+</a>
+
 </p>
 
-<!-- Badges Section -->
-<!-- <div style="display:flex; justify-content:center; gap:15px; margin-top:20px; flex-wrap:wrap;">
-  <img src="https://img.shields.io/github/followers/shiva89prasad?style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/shiva89prasad?style=for-the-badge&color=blue" alt="Stars" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shiva89prasad.shiva89prasad&style=for-the-badge&color=blue" alt="Views" />
-</div> -->
+<p align="center">
+Java &nbsp; • &nbsp; Spring Boot &nbsp; • &nbsp; Spring Security &nbsp; • &nbsp; Hibernate
+</p>
 
-<!-- About Me Section -->
-<h2 style="text-align:center; margin-top:40px; font-family:Arial, sans-serif;">About Me</h2>
-<table style="width:100%; max-width:900px; margin:auto; border-collapse:collapse; margin-top:20px;">
-  <tr>
-    <td style="width:65%; padding:10px; font-family:Arial, sans-serif; vertical-align:top;">
-      <p>Hello! I'm Shiva Prasad N, a passionate backend developer with over 4 years of experience. I love designing scalable server-side applications, optimizing performance, and contributing to open source projects. Always eager to learn new technologies and improve my skills.</p>
-    <!--  <p>Let's build something amazing together!</p> -->
-    </td>
-<!--    <td style="width:35%; padding:10px; text-align:center;">
-      <img src="https://via.placeholder.com/200" alt="Profile Image" style="border-radius:50%; width:200px; height:200px; object-fit:cover;">
-    </td> -->
-  </tr>
-</table>
+---
 
-<!-- Tech Stack with Icons -->
-<h2 style="text-align:center; margin-top:40px; font-family:Arial, sans-serif;">My Tech Stack</h2>
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px; margin-top:20px;">
-  <!-- Java -->
-  <div style="display:flex; flex-direction:column; align-items:center; width:60px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-    <p style="margin-top:8px; font-size:0.9em;">Java</p>
-  </div>
-  <!-- Springboot -->
-  <div style="display:flex; flex-direction:column; align-items:center; width:60px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Springboot/Springboot-original.svg" alt="Spring Boot" width="40" height="40" />
-    <p style="margin-top:8px; font-size:0.9em;">Springboot</p>
-  </div>
-  <!-- Docker -->
-  <div style="display:flex; flex-direction:column; align-items:center; width:60px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-    <p style="margin-top:8px; font-size:0.9em;">Microservices</p>
-  </div>
-  <!-- PostgreSQL -->
-  <div style="display:flex; flex-direction:column; align-items:center; width:60px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
-    <p style="margin-top:8px; font-size:0.9em;">PostgreSQL</p>
-  </div>
-  <!-- Add more icons following the same pattern -->
+### 🧩 Microservices & APIs
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" alt="Apache Kafka"/>
+&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50" height="50" alt="Swagger"/>
+&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="50" height="50" alt="gRPC"/>
+
+</p>
+
+<p align="center">
+REST APIs &nbsp; • &nbsp; Microservices &nbsp; • &nbsp; Kafka &nbsp; • &nbsp; Docker &nbsp; • &nbsp; Swagger &nbsp; • &nbsp; gRPC
+</p>
+
+---
+
+### 🗄️ Database
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
+&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+
+</p>
+
+<p align="center">
+PostgreSQL &nbsp; • &nbsp; MySQL &nbsp; • &nbsp; SQL &nbsp; • &nbsp; JPA &nbsp; • &nbsp; Hibernate
+</p>
+
+---
+
+### 🔧 Tools & Technologies
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" height="45" alt="Maven"/>
+&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA"/>
+&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+
+</p>
+
+---
+
+## 🧠 Core Java & Backend Knowledge
+
+```text
+Java
+├── OOP
+├── Collections
+├── Exception Handling
+├── Multithreading & Concurrency
+├── Java 8+
+│   ├── Lambda Expressions
+│   ├── Functional Interfaces
+│   ├── Stream API
+│   ├── Optional
+│   └── Method References
+├── JVM & Memory Management
+├── Generics
+├── Serialization
+└── Design Patterns
+```
+
+### 🌱 Spring Ecosystem
+
+```text
+Spring
+├── Spring Core
+├── Spring Boot
+├── Spring MVC
+├── Spring Data JPA
+├── Spring Security
+├── REST APIs
+├── Spring Cloud
+├── Exception Handling
+├── Validation
+└── Actuator
+```
+
+### 🧩 Microservices
+
+```text
+Microservices
+├── Service Discovery
+├── API Gateway
+├── Config Server
+├── Circuit Breaker
+├── Retry & Resilience
+├── Kafka
+├── Synchronous Communication
+├── Asynchronous Communication
+└── Distributed Systems
+```
+
+---
+
+## 📚 Currently Learning
+
+* 🚀 Advanced Java & JVM Internals
+* 🌱 Advanced Spring Boot
+* 🧩 Microservices Architecture
+* 📡 Apache Kafka
+* ☁️ Cloud & Containerization
+* 🔐 Spring Security & OAuth2
+* 🧪 Unit & Integration Testing
+* 📈 Application Performance & Profiling
+* 🏗️ System Design
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shiva89prasad&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva89prasad&layout=compact&theme=transparent&hide_border=true" height="180" alt="Top Languages"/>
+
 </div>
 
-<!-- GitHub Stats & Activity Graph -->
-<h2 style="text-align:center; margin-top:40px; font-family:Arial, sans-serif;">My GitHub Stats & Activity</h2>
-<div style="display:flex; flex-direction:column; align-items:center; gap:20px; margin-top:20px; max-width:1000px; width:90%; margin-left:auto; margin-right:auto;">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva89prasad&theme=blue&hide_border=true" alt="GitHub Streak" style="width:100%; max-width:600px;"/>
+---
 
-  <!-- Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=shiva89prasad&theme=react&hide_border=true&line_color=%23EF93C4&point_color=%23F8BBD0&area_color=%23FF69B4" alt="GitHub Activity Graph" style="width:100%; max-width:600px;"/>
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva89prasad&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
-<!-- Contribution Snake with GitHub Action Comment -->
-<h2 style="text-align:center; margin-top:40px; font-family:Arial, sans-serif;">My Contribution Snake</h2>
-<!-- Placeholder for Contribution Snake -->
-<p style="text-align:center; font-family:Arial, sans-serif; font-size:1.2em; margin-top:20px;">⏳ Loading contribution snake... (see [GitHub Action](https://github.com/shiva89prasad/your-repo/actions) for updates)</p>
+---
 
-<!-- Connect Section -->
-<h2 style="text-align:center; margin-top:40px; font-family:Arial, sans-serif;">Connect with Me</h2>
-<div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap; margin-top:20px;">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=twitter" alt="X" />
-  </a>
-  <a href="https://instagram.com/yourprofile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram" alt="Instagram" />
-  </a>
-  <a href="https://tiktok.com/@yourprofile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/TikTok-blue?style=for-the-badge&logo=tiktok" alt="TikTok" />
-  </a>
-  <a href="https://youtube.com/yourchannel" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-blue?style=for-the-badge&logo=youtube" alt="YouTube" />
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva89prasad&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph"/>
+
 </div>
 
-<!-- Waving Footer Capsule -->
-<div style="margin-top:50px; display:flex; justify-content:center;">
-  <div style="background-color:#007bff; color:white; padding:15px 30px; border-radius:50px; font-size:1.2em; font-family:Arial, sans-serif; animation:wave 2s infinite;">
-    👋 Hello!
-  </div>
+---
+
+## 📌 Featured Projects
+
+> 🚧 More projects coming soon...
+
+### 🔹 Java Backend Projects
+
+Projects focusing on:
+
+* RESTful API development
+* Spring Boot
+* Microservices
+* PostgreSQL
+* Spring Data JPA
+* Spring Security
+* JWT Authentication
+* Kafka
+* Docker
+* Unit Testing
+
+---
+
+## 🎯 My Development Philosophy
+
+> **Write clean code. Build scalable systems. Keep learning.**
+
+I believe good backend development is not just about making an application work. It's about building systems that are:
+
+* ⚡ Fast
+* 🔒 Secure
+* 📈 Scalable
+* 🧪 Testable
+* 🧹 Maintainable
+* 🔄 Reliable
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/shiva89prasad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<!-- Add your LinkedIn URL here -->
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 </div>
 
-<!-- Wave Animation -->
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  15% { transform: rotate(15deg); }
-  30% { transform: rotate(-10deg); }
-  45% { transform: rotate(15deg); }
-  60% { transform: rotate(-10deg); }
-  75% { transform: rotate(15deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
+---
+
+<div align="center">
+
+### 💻 Keep Coding • Keep Learning • Keep Building 🚀
+
+⭐ Thanks for visiting my profile!
+
+</div>
